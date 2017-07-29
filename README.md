@@ -1516,3 +1516,4 @@ These configuration options can be included when instantiating Okta Auth JS (`ne
 | `npm run build` | Build the SDK with a sourcemap |
 | `npm test` | Run unit tests using PhantomJS |
 | `npm run lint:report` | Run eslint linting tests |
+
